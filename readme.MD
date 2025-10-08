@@ -74,6 +74,8 @@ Ainda no terminal, execute:
 python joguin.py
 ```
 
+---
+
 ### 4️⃣ — Como jogar
 
 Aponte o dedo indicador na frente da webcam. 
@@ -91,6 +93,8 @@ O Pacmano vai se mover para onde o seu dedo estiver.
 Tente comer todas as bolinhas na tela.
 
 Pressione Q para sair do jogo.
+
+---
 
 ### 🧾 O que aparece na tela
 
@@ -116,6 +120,8 @@ O jogo roda a 30 FPS e usa rastreio de mão em tempo real.
 
 O personagem abre e fecha a boca continuamente, simulando a animação clássica do Pac-Man.
 
+---
+
 ### 💡 Dica para a apresentação
 
 Se for apresentar no Giro de Profissões:
@@ -126,12 +132,15 @@ Mostre o rastreamento da mão na câmera e o Pacmano respondendo aos movimentos.
 
 Diga que o MediaPipe é uma IA do Google que reconhece mãos e rostos.
 
-E finalize com algo tipo:
+---
+
+### E finalize com algo tipo:
 “Esse é o Pacmano, o Pac-Man que obedece o seu dedo!”
 
 Feito com 🧠, 🎮 e um pouquinho de preguiça.
 
 
 KKKKKKKKKKKKKKKKKKK, OLHA ESSA IA, QUE DJABO DE FINALIZAÇÃO FOI ESSA... mas de resto, tá tudo nos conformes, é só seguir esse roteirinho que vai ficar tudo sussa na montanha-russa... qualquer coisa, me liguem no zap (98) 9... claramente nn vou botar meu número no github, galera, vcs sabem meu número
+
 
 
