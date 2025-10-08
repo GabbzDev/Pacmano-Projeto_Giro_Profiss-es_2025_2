@@ -47,7 +47,9 @@ Se você ainda não tem, baixe aqui:
 👉 https://www.python.org/downloads/
 
 **ADICIONADO POR MIM, O FODÃO, O CRIADOR, GOD, O MELHOR DIRETOR DA LASETE -> USEM A VERSÃO 3.11, AS OUTRAS SEMPRE DÁ B.O, FIQUEI PAPO DE 40 MINUTOS TENTANDO ACHAR UMA VERSÃO DECENTE QUE ACEITASSE TODAS AS BIBLIOTECAS AAAAAAAAAAAAAAAAA**
+
 **ADICIONADO POR MIM, O FODÃO, O CRIADOR, GOD, O MELHOR DIRETOR DA LASETE -> USEM A VERSÃO 3.11, AS OUTRAS SEMPRE DÁ B.O, FIQUEI PAPO DE 40 MINUTOS TENTANDO ACHAR UMA VERSÃO DECENTE QUE ACEITASSE TODAS AS BIBLIOTECAS AAAAAAAAAAAAAAAAA**
+
 **ADICIONADO POR MIM, O FODÃO, O CRIADOR, GOD, O MELHOR DIRETOR DA LASETE -> USEM A VERSÃO 3.11, AS OUTRAS SEMPRE DÁ B.O, FIQUEI PAPO DE 40 MINUTOS TENTANDO ACHAR UMA VERSÃO DECENTE QUE ACEITASSE TODAS AS BIBLIOTECAS AAAAAAAAAAAAAAAAA**
 
 Durante a instalação, **marque a opção “Add Python to PATH”**.
@@ -126,5 +128,6 @@ E finalize com algo tipo:
 “Esse é o Pacmano, o Pac-Man que obedece o seu dedo!”
 
 Feito com 🧠, 🎮 e um pouquinho de preguiça.
+
 
 KKKKKKKKKKKKKKKKKKK, OLHA ESSA IA, QUE DJABO DE FINALIZAÇÃO FOI ESSA... mas de resto, tá tudo nos conformes, é só seguir esse roteirinho que vai ficar tudo sussa na montanha-russa... qualquer coisa, me liguem no zap (98) 9... claramente nn vou botar meu número no github, galera, vcs sabem meu número
