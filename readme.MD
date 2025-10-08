@@ -9,6 +9,7 @@ a IA vai te explicar tudo direitinho e te ensinar como rodar o projeto 😎
 # 🎮 Pacmano — O Pac-Man controlado pela sua mão!
 
 ![Pacmano](pacmano.png)
+
 Esse projeto é uma mistura divertida entre **Visão Computacional** e **Jogos em Python**.  
 Você controla o **Pacmano** (uma versão simplificada do Pac-Man) **movendo seu dedo na frente da webcam**!
 
@@ -132,4 +133,5 @@ Feito com 🧠, 🎮 e um pouquinho de preguiça.
 
 
 KKKKKKKKKKKKKKKKKKK, OLHA ESSA IA, QUE DJABO DE FINALIZAÇÃO FOI ESSA... mas de resto, tá tudo nos conformes, é só seguir esse roteirinho que vai ficar tudo sussa na montanha-russa... qualquer coisa, me liguem no zap (98) 9... claramente nn vou botar meu número no github, galera, vcs sabem meu número
+
 
